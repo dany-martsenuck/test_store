@@ -1,4 +1,4 @@
-const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR1RgRzClwN8F4op0qEbzQDVR2ZqxPAKX9Sb4oc4X4oRgRJ_68FwPPBHP-XsF-Asf1sphz_q0vmtTX0/pub?gid=0&single=true&output=csv';
+const spreadsheetUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4uRg4A0Qssyeek5pTJgWgSGN8Fe4jWTm94oLFlKzfhfF53OcHCvJ-WEDLWYTMp28swx7tS2Tc6juD/pub?output=csv';
 
 const productsContainer = document.querySelector('#products .row');
 
